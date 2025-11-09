@@ -1,7 +1,17 @@
 # Mymz World Child Care – Website Project (Case Study)
 
 This repository is a case study of a real website project I collaborated on with my cousin, an experienced web developer, for my mum’s childcare business, *Mymz World*.  
-This repo documents **my contributions**, the content I helped organise, and what I learned during the project.
+This repo documents **my contributions**, the coding and content work I did, the skills I used, and what I learned during the project.
+
+---
+
+## 🛠 Skills Used
+- HTML, CSS, JavaScript  
+- Responsive design and layout adjustments  
+- Debugging and testing website functionality  
+- Content creation and structuring  
+- Version control (Git/GitHub)  
+- Collaboration and communication in a team project  
 
 ---
 
@@ -16,18 +26,26 @@ The website includes sections such as:
 - Contact Us  
 - Join Us  
 
-I worked alongside my cousin to help prepare website content, review page layouts, and understand how websites are structured.
+I worked alongside my cousin to help build, test, and improve the website while contributing my own code, content, and layout adjustments.
 
 ---
 
 ## 🧩 My Contributions
 During this project, I contributed by:
 
+- **Front-end development:** Wrote HTML, CSS, and basic JavaScript to implement website features  
 - **Content Creation & Editing:** Wrote and organised text for multiple pages, including “Our Facilities” and “About Us” sections  
 - **Layout Assistance:** Helped adjust page layout and structure under guidance  
+- **Form Functionality:** Assisted in implementing the “Make Appointment” form with input validation  
 - **Website Testing:** Checked website for layout issues, responsiveness, and user flow  
-- **Collaboration:** Worked closely with my cousin, providing feedback and learning best practices  
+- **Collaboration:** Worked closely with my cousin, providing feedback, coding edits, and learning best practices  
 - **Organisation:** Helped gather images, contact information, and business details for the website  
+
+---
+
+## 🌐 Live Website
+You can visit the live website here:  
+[Mymz World Child Care](https://mymzchildcare.web.app/)
 
 ---
 
@@ -50,10 +68,8 @@ Email: info@mymzworld.com
 
 ---
 
-## 📸 Screenshots
-*(Optional: Add screenshots here)*  
-Example syntax:
+## 📸 Screenshots (Optional)
+If you want to include screenshots that link to the live site:
 
 ```markdown
-![Homepage](images/homepage.png)
-![Facilities](images/facilities.png)
+[![Homepage](images/homepage.png)](https://mymzchildcare.web.app/)
