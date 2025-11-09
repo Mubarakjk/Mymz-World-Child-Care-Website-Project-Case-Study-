@@ -1,6 +1,6 @@
-# Mymz World Child Care – Website Project (Case Study)
+# Mymz World Child Care – Website Project
 
-This repository is a case study of a real website project I collaborated on with my cousin, an experienced web developer, for my mum’s childcare business, *Mymz World*.  
+This repository showcases a real website project I collaborated on with my cousin, an experienced web developer, for my mum’s childcare business, *Mymz World*.  
 This repo documents **my contributions**, the coding and content work I did, the skills I used, and what I learned during the project.
 
 ---
@@ -68,8 +68,11 @@ Email: info@mymzworld.com
 
 ---
 
-## 📸 Screenshots (Optional)
-If you want to include screenshots that link to the live site:
+## 📸 Screenshots
+*(Upload your screenshots in the `images` folder and update filenames accordingly)*
 
 ```markdown
-[![Homepage](images/homepage.png)](https://mymzchildcare.web.app/)
+[![Homepage](images/README-screenshot.png)](https://mymzchildcare.web.app/)
+[![Facilities](images/facilities.png)](https://mymzchildcare.web.app/facilities)
+[![Make Appointment](images/appointment.png)](https://mymzchildcare.web.app/appointment)
+
